@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*================== google検索 ==================*/
+#___gcse_0{
+	width:926px;
+	height:1.6em;
+	margin-right:auto;
+	margin-left:auto;
+	/margin-top:-30px;
+}
+.gsc-control-cse{
+	padding:0px !important;
+	width:350px !important;
+	margin-right:7px;
+}
+.gsc-control-cse-ja{
+	float:right;
+}
+input.gsc-input{
+	font-size:12px !important;
+	height:3em;
+}
+.gsc-search-button{
+	background-image: none;
+	filter: none;
+	height: 100%;
+	width: 5em;
+	border: none;
+	cursor:pointer;
+}
